@@ -69,8 +69,8 @@ global.psaweria = 'https://saweria.com/jbyannstore'
 /*============== NOMOR ==============*/
 global.nomorbot = '62822522851435'
 global.nomorown = '62822522851432'
-global.namebot = 'X-ONE-BOT-V1'
-global.nameown = 'YANN.DEV'
+global.namebot = 'EnCode-Botz'
+global.nameown = 'Ryann.Dev'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'YannPrtm' // nama github lu
@@ -158,14 +158,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X-ONE-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘X-ONE-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ X-ONE-BOT-V1"
+global.wm = '                「 EnCode-Botz 」' //Main Watermark
+global.wm2 = 'EnCode-Botz'
+global.wm3 = "⫹⫺ EnCode-Botz"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Ryann-DEV`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "Ryann.DEV 乂 X-ONE-BOT-V1"
+global.author = "EnCode-Botz 乂 By Ryann.Dev"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -228,7 +228,7 @@ global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
 global.cmenub = '┊✦ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
+global.cmenua = '\n⌕ Ryann.Dev ⌕\n     ' //after
 global.pmenus = pickRandom(["◈", "➭", "ଓ", "⟆•", "⳻⳻", "•", "↬", "◈▻", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]) //pembatas menu selector
 
 global.htki = '––––––『' // Hiasan Titile (KIRI)
@@ -239,7 +239,7 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'X-ONE-BOT-V1'
+global.stickpack = 'EnCode-Botz'
 global.stickauth = `By ©Ryann.DEV`
 
 global.multiplier = 49 // The higher, The harder levelup
